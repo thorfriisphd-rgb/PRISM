@@ -1,6 +1,6 @@
 # IBAM Grammar Engine
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20142592.svg)](https://doi.org/10.5281/zenodo.20142592)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20111879.svg)](https://doi.org/10.5281/zenodo.20111879)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/thorfriisphd-rgb/ibam-grammar-engine)
 ![GitHub repo size](https://img.shields.io/github/repo-size/thorfriisphd-rgb/ibam-grammar-engine)
@@ -118,7 +118,7 @@ No additional installation required. All pipeline scripts are self-contained wit
 
 Download the MD trajectory dataset from Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20142592.svg)](https://doi.org/10.5281/zenodo.20142592)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20111879.svg)](https://doi.org/10.5281/zenodo.20111879)
 
 Extract and point `--data-root` at the extracted directory.
 
@@ -301,7 +301,7 @@ brew install pdf2svg
 
 ### WORKDIR path errors
 
-The WORKDIR entries in *samples.tsv* reflect the developer's local folder structure and wil need to be edited to match the user's own directory setup.
+The WORKDIR entries in *samples.tsv* reflect the developer's local folder structure and will need to be edited to match the user's own directory setup.
 
 
 ---
