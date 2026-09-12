@@ -35,6 +35,13 @@ Conservation detected by PRISM reflects constraint on the **three-dimensional in
 
 ---
 
+![Conceptual overview of the PRISM analysis pipeline](docs/figures/PRISM_conceptual_pipeline.png)
+
+**Figure 1. Conceptual overview of the PRISM pipeline.** AlphaFold3 (AF3)-predicted protein complexes provide the starting structural models for molecular-dynamics simulations. The resulting trajectories are analysed for persistent interface contacts and integrated with sequence-based evolutionary mapping to identify conserved interaction-space and chemical grammar across taxa.
+
+
+---
+
 ## Taxonomic Panel
 
 The reference analysis comprises 26 taxa spanning major eukaryotic lineages together with a bacterial outgroup.
@@ -61,11 +68,6 @@ The pipeline is not restricted to this reference panel and can accommodate addit
 ---
 
 ## Pipeline Architecture
-
-![Conceptual overview of the PRISM analysis pipeline](docs/figures/PRISM_conceptual_pipeline.png)
-
-**Figure 1. Conceptual overview of the PRISM pipeline.** AlphaFold3 (AF3)-predicted protein complexes provide the starting structural models for molecular-dynamics simulations. The resulting trajectories are analysed for persistent interface contacts and integrated with sequence-based evolutionary mapping to identify conserved interaction-space and chemical grammar across taxa.
-
 
 ```text
 AF3-predicted protein complexes
