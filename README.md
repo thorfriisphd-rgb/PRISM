@@ -360,7 +360,7 @@ The reference IBAM analysis used standardised molecular-dynamics conditions:
 | Temperature    | 310 K            |
 | Contact cutoff | 4.5 Å            |
 
-Longer 50- and 100-ns simulations were additionally generated for selected analyses.
+Longer 50, 100, and 500-ns simulations were additionally generated for selected analyses.
 
 The methodological basis for the molecular-dynamics protocol, including the comparison of cutoff, Reaction Field and PME electrostatics using the GCN4 control system, is described in the accompanying manuscript. Those controls informed the simulation protocol and are not part of the PRISM analytical pipeline.
 
