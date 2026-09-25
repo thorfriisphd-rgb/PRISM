@@ -357,7 +357,7 @@ The reference IBAM analysis used standardised molecular-dynamics conditions:
 | Water model    | TIP3P            |
 | Electrostatics | Cutoff, 1.0 nm   |
 | Production MD  | 10 ns standard   |
-| Temperature    | 310 K            |
+| Temperature    | 300 K            |
 | Contact cutoff | 4.5 Å            |
 
 Longer 50, 100, and 500-ns simulations were additionally generated for selected analyses.
